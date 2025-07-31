@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+scipy
+nltk
+beautifulsoup4
+vaderSentiment
+sentence-transformers
+seaborn
+matplotlib
